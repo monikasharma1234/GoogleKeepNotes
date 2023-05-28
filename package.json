@@ -1,8 +1,8 @@
 {  
-  "homepage": "https://monikasharma1234.github.io/GoogleKeepNotes",
+  "homepage": "http://monikasharma1234.github.io/GoogleKeepNotes",
   "name": "my-app",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
