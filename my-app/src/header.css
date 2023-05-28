@@ -1,0 +1,24 @@
+h1{
+    background-color:#f5ba13;
+    margin: 0%;
+    padding: 1%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+span{
+    text-align: center;
+    padding-left: 3px;
+    padding-bottom: 8px;
+    text-shadow:5cap;
+}
+img{
+    width: 2%;
+    height: 2%;
+    border-radius: 20%;
+}
+@media (max-width : 480px)
+{
+    header h1{
+        text-align: center;
+      }
+}
